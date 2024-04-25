@@ -20,3 +20,7 @@ communication protocol is defined further on,
 ✓ a shell script (binary name: pipes.sh) that enables you to connect your program to the API
 and launch simulations. It’s a binary that you will run in order to test your AI. Its utilization
 is also presented further on.
+
+You can open a track on CoppeliaSim: File -> Open scene / oppeliaSim_Edu_V4_1_0_Ubuntu20_04->scene->track_1.ttt
+
+Open a new terminal, go to the file n4s_package and run ./pipes.sh
