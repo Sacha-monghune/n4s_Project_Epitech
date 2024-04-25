@@ -1,6 +1,8 @@
 # Need4stek
 Epitech project,
 
+![alt text](https://github.com/Sacha-monghune/n4s_Project_Epitech/blob/main/n4s_package/Image_n4s.png)
+
 Subject:
 
 By now you’ve understood that it’s now your turn to create your own autonomous car. It must
