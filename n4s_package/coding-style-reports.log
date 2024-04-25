@@ -1,7 +1,3 @@
-./ai.c:75: INFO:C-A3
 ./n4s:1: MAJOR:C-O1
 ./n4s_buffer:1: MAJOR:C-O1
 ./speed.c:24: INFO:C-A3
-./turn.c:23: MINOR:C-G2
-./turn.c:36: MINOR:C-G7
-./turn.c:37: INFO:C-A3

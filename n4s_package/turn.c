@@ -19,7 +19,6 @@ void turning(int val, char *deg)
     }
 }
 
-
 void turn(int dist_mid, int direction)
 {
     if (dist_mid >= 1500)
@@ -33,5 +32,5 @@ void turn(int dist_mid, int direction)
     if (dist_mid >= 300 && dist_mid < 500)
         turning(direction, "0.3");
     if (dist_mid >= 0 && dist_mid < 300)
-        turning(direction, "0.5");  
+        turning(direction, "0.5");
 }
